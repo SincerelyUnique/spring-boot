@@ -10,3 +10,5 @@
 ### 参考
 
 http://www.runoob.com/redis/redis-install.html （redis安装及启动教程）
+
+http://www.importnew.com/21889.html （并发包CountDownLatch类说明）
