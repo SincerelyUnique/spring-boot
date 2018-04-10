@@ -3,7 +3,7 @@
 ### 说明
 
 1. 该项目通过Spring Data Neo4j构建，使用Neo4j存储和检索数据，Neo4j是一个在线图形数据库；
-2. 安装好Neo4j并启动；
+2. 安装好Neo4j并启动,windows建议以管理员身份启动；
 3. 运行项目，访问http://localhost:7474/browser/ ，在Database Information中可以查看到刚刚存储的对象；
 
 ### 参考
