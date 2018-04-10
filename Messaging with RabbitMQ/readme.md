@@ -2,7 +2,7 @@
 
 ### 说明
 
-1. 安装Rabbitmq并启动，访问http://localhost:15672/#/，默认用户名密码均为guest；
+1. 安装Rabbitmq并启动，访问http://localhost:15672/#/ ，默认用户名密码均为guest；
 2. 如果Rabbitmq无法启动，可以检查下服务是否被禁用，命令services.msc;
 3. 
 
