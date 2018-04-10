@@ -9,4 +9,4 @@
 
 ### 参考
 
-http://www.runoob.com/redis/redis-install.html（redis安装及启动教程）
+http://www.runoob.com/redis/redis-install.html （redis安装及启动教程）
