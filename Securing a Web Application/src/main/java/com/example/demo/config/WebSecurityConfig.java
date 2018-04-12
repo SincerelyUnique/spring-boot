@@ -45,7 +45,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 	@Override
 	public UserDetailsService userDetailsService() {
 		UserDetails user =
-				User.withDefaultPasswordEncoder()
+				User.withDefaultPasswordEncoder()	// withDefaultPasswordEncoder方法仅做例子时使用，实际生产中不会使用
 						.username("user")
 						.password("password")
 						.roles("USER")
